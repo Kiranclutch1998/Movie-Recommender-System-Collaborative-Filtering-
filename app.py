@@ -1,7 +1,7 @@
 '''
-Author: Bappy Ahmed
-Email: entbappy73@gmail.com
-Date: 2021-Nov-15
+Author: Kiranclutch1998
+Email: poojarikiran39@gmail.com
+
 '''
 
 import pickle
@@ -27,7 +27,7 @@ def recommend(movie):
         recommended_movie_posters.append(fetch_poster(movie_id))
         recommended_movie_names.append(movies.iloc[i[0]].title)
 
-    return recommended_movie_names,recommended_movie_posters
+    return recommended_movie_names, recommended_movie_posters
 
 
 st.header('Movie Recommender System Using Machine Learning')
