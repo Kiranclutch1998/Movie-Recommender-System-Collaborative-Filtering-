@@ -1,6 +1,6 @@
 # Project: Movie Recommender System Using Machine Learning!
 
-<img src="demo/6.jpg" alt="workflow" width="70%">
+![6](https://user-images.githubusercontent.com/76097123/182024524-c125999a-aa9d-46dd-ad67-f8dcaca71fd3.jpg)
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
@@ -15,12 +15,10 @@ here is a demo,
 
 
 # Demo:
+![1](https://user-images.githubusercontent.com/76097123/182024552-02f40623-372c-4b40-8c0a-6e9afa10c8c2.png)
+![2](https://user-images.githubusercontent.com/76097123/182024555-5edcbe02-2885-43ef-b2a5-848250f2c59d.png)
+![3](https://user-images.githubusercontent.com/76097123/182024559-39a469de-2501-4e58-836c-1c7e37b0251b.png)
 
-<img src="demo/1.png" alt="workflow" width="70%">
-
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
